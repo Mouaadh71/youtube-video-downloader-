@@ -1,3 +1,5 @@
+#download yt_dlp by typing pip install yt_dlp in the tirminal
+
 import os
 import yt_dlp
 
